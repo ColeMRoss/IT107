@@ -1,0 +1,28 @@
+h1{background-color: rgb(122, 138, 230);style=border: 2px blue; 
+    
+    border-style: ridge;
+    border-color: Blue;
+    Padding:[ 20px;]}
+    body {background-color: rgba(0, 0, 0, 0); 
+         
+    color: white;}
+    #no1 { color: rgb(59, 5, 255);
+    
+        
+    }
+    .head3 {color: aqua
+        border: 1px solid black;
+        outline-style: solid;
+        outline-color: blue;
+        background-color: rgb(2, 0, 0)}
+    #no3 {color: lightcoral}
+    ul {border: 1px solid black;
+        outline-style: solid;
+        outline-color: blue;
+        background-color: rgb(2, 0, 0)}
+    h2 {border: 1px solid black;
+        outline-style: solid;
+        outline-color: blue;
+        background-color: rgb(2, 0, 0)}
+        
+        .fancybullets {list-style: square}
