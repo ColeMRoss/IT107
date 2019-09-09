@@ -1,0 +1,22 @@
+/*Give all p elements a font-size of 1.2em
+Give the class "weather-heading" a font-family of Helvetica.
+Give the class "weather-forecast" a background-color of "#c7d5ed"
+Give the class "forecast" a color of "#270538"*/
+
+p { font-size: 1.2em;
+}
+.weather-heading { font-family: Arial, Helvetica, sans-serif;
+}
+
+.weather-forecast { background-color: #c7d5ed;}
+
+.forecast {color: red;}
+body {background-image: url(https://www.rainstreammedia.com/wp-content/uploads/2017/09/Animated-Rain-Gif-Background-Photography-rain-wallpaper.jpg)
+}
+
+a:link {color: hotpink; background-color: indianred; font-size: 2em}
+a:visited {background-color: khaki; color: blueviolet}
+a:hover {color: coral; font-size: 5em;}
+a:active{background-color: lightgreen; color: lightpink}
+
+

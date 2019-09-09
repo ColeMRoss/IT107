@@ -1,0 +1,24 @@
+h1{background-color: rgb(2, 0, 0);style=border: 2px blue; 
+    
+border-style: ridge;
+border-color: Blue;
+Padding:[ 20px;]}
+body {background-color: rgba(0, 0, 0, 0); 
+    background-image: url("Ppg.png"); 
+color: white;}
+#no1 { color: mediumseagreen;
+
+    
+}
+#no2 {color: aqua}
+#no3 {color: lightcoral}
+ul {border: 1px solid black;
+    outline-style: solid;
+    outline-color: blue;
+    background-color: rgb(2, 0, 0)}
+h2 {border: 1px solid black;
+    outline-style: solid;
+    outline-color: blue;
+    background-color: rgb(2, 0, 0)}
+    
+    .fancybullets {list-style: square}
