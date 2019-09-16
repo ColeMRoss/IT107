@@ -1,0 +1,27 @@
+:root {
+    --mbgc: violet;
+    --mtc: white;
+    
+    --h2bc: violet;
+    --h2tc: white;
+
+}
+
+h1 {
+    background-color: var(--mbgc, violet);
+    color: var(--mtc, white);
+    
+    
+
+}
+
+h2 {
+    background-color: var(--h2bc, violet);
+    color: var(--h2tc, white);
+    
+    
+
+}
+
+
+
