@@ -92,14 +92,19 @@ console.log(finishedtaco)
 
 
 //Calculator
-var numb1text = prompt("number1");
-var numb2text = prompt("number2");
+
+//addition
+var numb1text = prompt("Add number");
+var numb2text = prompt("Plus number");
 var numb1 = parseFloat(numb1text);
 var numb2 = parseFloat(numb2text);
 function add(numb1, numb2){
 var addition = (numb1+numb2);
 console.log(addition);
 }
+
+//subtract
+
 
 
 
