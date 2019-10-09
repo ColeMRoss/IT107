@@ -40,7 +40,7 @@ subtract(sub1,sub2);
 var mult1text = ("6");
 var mult2text = ("6");
 var mult1 = parseFloat(sub1text);
-var mult2 = parseFloat(sub2text
+var mult2 = parseFloat(sub2text);
 
 function multiply(mult1, mult2){
     console.log("Answer:",mult1*mult2)
