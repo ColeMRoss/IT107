@@ -23,6 +23,10 @@ while(i < 100){
 }
 
 
+for(var y = 0; y < 100; y++){
+    console.log("Tweet Tweet Tweet");
+  }
+
 
 
 
@@ -34,3 +38,16 @@ var favoritefoods = ["Pizza", "Rice", "Spaghetti", "Garlic Bread"];
 for(var o = 0; o < favoritefoods.length; o++){
     console.log(favoritefoods[o]);
   }
+
+
+  
+
+
+  //student names
+
+  var cohortOneStudents = ["Sable", "David", "Joey", "Nick", "Tommy", "Connor", "Charles", "Russ", "Bobby", "Josh", "Nikki", "Matt", "Dale", "Sydney"];
+
+  for(var studentnames = 0; studentnames < cohortOneStudents.length; studentnames++){
+      console.log(cohortOneStudents[studentnames]);
+  }
+
