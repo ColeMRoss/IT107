@@ -58,7 +58,7 @@ multiply(mult1,mult2);
 var div1text = ("40");
 var div2text = ("6");
 var div1 = parseFloat(sub1text);
-var div2 = parseFloat(sub2text
+var div2 = parseFloat(sub2text);
 
 function divide(div1,div2){
     console.log("Answer:",div1/div2)
